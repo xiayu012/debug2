@@ -3,7 +3,7 @@ import Bookings from './components/Bookings';
 import Meals from './components/Meals';
 import Error from './components/Error';
 
-
+//02
 class App extends Component {
 
     render() {
